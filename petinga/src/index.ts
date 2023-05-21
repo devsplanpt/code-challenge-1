@@ -1,10 +1,13 @@
-/**
- * Returns the input string if it is truthy, otherwise returns false.
- *
- * @param {string | undefined} str - The input string to be tested.
- * @returns {string | boolean} - If the input string is truthy, it is returned. Otherwise, false is returned.
- */
-export function test(str?: string): string | boolean {
-	if (!str) return false;
-	return str;
-}
+import {  Reporter } from "./types";
+import { getChampionshipData } from "./parse";
+import { computeReport } from "./report";
+
+export const logChampionshipReport = async (path: string, reporter: Reporter) => {
+  const data = await getChampionshipData(path);
+
+  const report = computeReport(data, reporter);
+
+  console.log(report);
+
+  return report
+};
