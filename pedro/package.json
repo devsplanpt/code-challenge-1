@@ -1,0 +1,10 @@
+{
+	"scripts": {
+		"dev": "tsx watch src/index.ts",
+		"build": "npx tsc --build "
+	},
+	"devDependencies": {
+		"tsx": "3.12.7",
+		"typescript": "5.0.4"
+	}
+}
