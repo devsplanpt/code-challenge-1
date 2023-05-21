@@ -1,0 +1,954 @@
+[
+  {
+    "date": "2023-01-01",
+    "home_team": "Team A",
+    "away_team": "Team B",
+    "home_score": "2",
+    "away_score": "1",
+    "yellow_cards": "3"
+  },
+  {
+    "date": "2023-01-02",
+    "home_team": "Team C",
+    "away_team": "Team D",
+    "home_score": "3",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-03",
+    "home_team": "Team B",
+    "away_team": "Team C",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-01-04",
+    "home_team": "Team D",
+    "away_team": "Team A",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-01-05",
+    "home_team": "Team A",
+    "away_team": "Team C",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-06",
+    "home_team": "Team D",
+    "away_team": "Team B",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "3"
+  },
+  {
+    "date": "2023-01-07",
+    "home_team": "Team E",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-08",
+    "home_team": "Team G",
+    "away_team": "Team H",
+    "home_score": "1",
+    "away_score": "0",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-01-09",
+    "home_team": "Team A",
+    "away_team": "Team D",
+    "home_score": "3",
+    "away_score": "1",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-01-10",
+    "home_team": "Team B",
+    "away_team": "Team E",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-11",
+    "home_team": "Team C",
+    "away_team": "Team F",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-01-12",
+    "home_team": "Team G",
+    "away_team": "Team H",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-13",
+    "home_team": "Team A",
+    "away_team": "Team C",
+    "home_score": "3",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-14",
+    "home_team": "Team D",
+    "away_team": "Team E",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "3"
+  },
+  {
+    "date": "2023-01-15",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-16",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-01-17",
+    "home_team": "Team H",
+    "away_team": "Team A",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-01-18",
+    "home_team": "Team E",
+    "away_team": "Team B",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-19",
+    "home_team": "Team F",
+    "away_team": "Team C",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-01-20",
+    "home_team": "Team G",
+    "away_team": "Team D",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-21",
+    "home_team": "Team A",
+    "away_team": "Team E",
+    "home_score": "3",
+    "away_score": "1",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-01-22",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-23",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-01-24",
+    "home_team": "Team H",
+    "away_team": "Team D",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-01-25",
+    "home_team": "Team E",
+    "away_team": "Team A",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-26",
+    "home_team": "Team F",
+    "away_team": "Team B",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-01-27",
+    "home_team": "Team G",
+    "away_team": "Team C",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-28",
+    "home_team": "Team A",
+    "away_team": "Team H",
+    "home_score": "3",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-29",
+    "home_team": "Team D",
+    "away_team": "Team E",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "3"
+  },
+  {
+    "date": "2023-01-30",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-01-31",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-02-01",
+    "home_team": "Team H",
+    "away_team": "Team A",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-02-02",
+    "home_team": "Team E",
+    "away_team": "Team B",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-02-03",
+    "home_team": "Team F",
+    "away_team": "Team C",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-02-04",
+    "home_team": "Team G",
+    "away_team": "Team D",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-02-05",
+    "home_team": "Team A",
+    "away_team": "Team E",
+    "home_score": "3",
+    "away_score": "1",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-02-06",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-02-07",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-02-08",
+    "home_team": "Team H",
+    "away_team": "Team D",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-02-09",
+    "home_team": "Team E",
+    "away_team": "Team A",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-02-10",
+    "home_team": "Team F",
+    "away_team": "Team B",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-02-11",
+    "home_team": "Team G",
+    "away_team": "Team C",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-02-12",
+    "home_team": "Team A",
+    "away_team": "Team H",
+    "home_score": "3",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-02-13",
+    "home_team": "Team D",
+    "away_team": "Team E",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "3"
+  },
+  {
+    "date": "2023-02-14",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-02-15",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-02-16",
+    "home_team": "Team H",
+    "away_team": "Team D",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-02-17",
+    "home_team": "Team E",
+    "away_team": "Team A",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-02-18",
+    "home_team": "Team F",
+    "away_team": "Team B",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-02-19",
+    "home_team": "Team G",
+    "away_team": "Team C",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-02-20",
+    "home_team": "Team A",
+    "away_team": "Team E",
+    "home_score": "3",
+    "away_score": "1",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-02-21",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-02-22",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-02-23",
+    "home_team": "Team H",
+    "away_team": "Team D",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-02-24",
+    "home_team": "Team E",
+    "away_team": "Team A",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-02-25",
+    "home_team": "Team F",
+    "away_team": "Team B",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-02-26",
+    "home_team": "Team G",
+    "away_team": "Team C",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-02-27",
+    "home_team": "Team A",
+    "away_team": "Team H",
+    "home_score": "3",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-02-28",
+    "home_team": "Team D",
+    "away_team": "Team E",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "3"
+  },
+  {
+    "date": "2023-03-01",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-02",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-03-03",
+    "home_team": "Team H",
+    "away_team": "Team D",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-03-04",
+    "home_team": "Team E",
+    "away_team": "Team A",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-05",
+    "home_team": "Team F",
+    "away_team": "Team B",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-03-06",
+    "home_team": "Team G",
+    "away_team": "Team C",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-07",
+    "home_team": "Team A",
+    "away_team": "Team E",
+    "home_score": "3",
+    "away_score": "1",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-03-08",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-09",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-03-10",
+    "home_team": "Team H",
+    "away_team": "Team D",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-03-11",
+    "home_team": "Team E",
+    "away_team": "Team A",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-12",
+    "home_team": "Team F",
+    "away_team": "Team B",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-03-13",
+    "home_team": "Team G",
+    "away_team": "Team C",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-14",
+    "home_team": "Team A",
+    "away_team": "Team H",
+    "home_score": "3",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-15",
+    "home_team": "Team D",
+    "away_team": "Team E",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "3"
+  },
+  {
+    "date": "2023-03-16",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-17",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-03-18",
+    "home_team": "Team H",
+    "away_team": "Team D",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-03-19",
+    "home_team": "Team E",
+    "away_team": "Team A",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-20",
+    "home_team": "Team F",
+    "away_team": "Team B",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-03-21",
+    "home_team": "Team G",
+    "away_team": "Team C",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-22",
+    "home_team": "Team A",
+    "away_team": "Team E",
+    "home_score": "3",
+    "away_score": "1",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-03-23",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-24",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-03-25",
+    "home_team": "Team H",
+    "away_team": "Team D",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-03-26",
+    "home_team": "Team E",
+    "away_team": "Team A",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-27",
+    "home_team": "Team F",
+    "away_team": "Team B",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-03-28",
+    "home_team": "Team G",
+    "away_team": "Team C",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-29",
+    "home_team": "Team A",
+    "away_team": "Team H",
+    "home_score": "3",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-03-30",
+    "home_team": "Team D",
+    "away_team": "Team E",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "3"
+  },
+  {
+    "date": "2023-03-31",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-01",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-04-02",
+    "home_team": "Team H",
+    "away_team": "Team D",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-04-03",
+    "home_team": "Team E",
+    "away_team": "Team A",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-04",
+    "home_team": "Team F",
+    "away_team": "Team B",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-04-05",
+    "home_team": "Team G",
+    "away_team": "Team C",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-06",
+    "home_team": "Team A",
+    "away_team": "Team H",
+    "home_score": "3",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-07",
+    "home_team": "Team D",
+    "away_team": "Team E",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "3"
+  },
+  {
+    "date": "2023-04-08",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-09",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-04-10",
+    "home_team": "Team H",
+    "away_team": "Team D",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-04-11",
+    "home_team": "Team E",
+    "away_team": "Team A",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-12",
+    "home_team": "Team F",
+    "away_team": "Team B",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-04-13",
+    "home_team": "Team G",
+    "away_team": "Team C",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-14",
+    "home_team": "Team A",
+    "away_team": "Team H",
+    "home_score": "3",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-15",
+    "home_team": "Team D",
+    "away_team": "Team E",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "3"
+  },
+  {
+    "date": "2023-04-16",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-17",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-04-18",
+    "home_team": "Team H",
+    "away_team": "Team D",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-04-19",
+    "home_team": "Team E",
+    "away_team": "Team A",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-20",
+    "home_team": "Team F",
+    "away_team": "Team B",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-04-21",
+    "home_team": "Team G",
+    "away_team": "Team C",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-22",
+    "home_team": "Team A",
+    "away_team": "Team H",
+    "home_score": "3",
+    "away_score": "0",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-23",
+    "home_team": "Team D",
+    "away_team": "Team E",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "3"
+  },
+  {
+    "date": "2023-04-24",
+    "home_team": "Team B",
+    "away_team": "Team F",
+    "home_score": "2",
+    "away_score": "2",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-25",
+    "home_team": "Team C",
+    "away_team": "Team G",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-04-26",
+    "home_team": "Team H",
+    "away_team": "Team D",
+    "home_score": "0",
+    "away_score": "2",
+    "yellow_cards": "4"
+  },
+  {
+    "date": "2023-04-27",
+    "home_team": "Team E",
+    "away_team": "Team A",
+    "home_score": "2",
+    "away_score": "3",
+    "yellow_cards": "2"
+  },
+  {
+    "date": "2023-04-28",
+    "home_team": "Team F",
+    "away_team": "Team B",
+    "home_score": "1",
+    "away_score": "1",
+    "yellow_cards": "1"
+  },
+  {
+    "date": "2023-04-29",
+    "home_team": "Team G",
+    "away_team": "Team C",
+    "home_score": "2",
+    "away_score": "0",
+    "yellow_cards": "2"
+  }
+]
